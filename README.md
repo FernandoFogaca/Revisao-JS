@@ -10,6 +10,6 @@
 
 
 - Download Live server plugin
-- Right click on the index.html file and click on "Open with Live Server"
+- Right click on the index.html file and click on "Open with Live Server."
 
 

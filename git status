@@ -1,0 +1,19 @@
+[33mcommit 3a944b5d219acc99099ea557885946d9e05717cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32moutra_ramificacao[m[33m)[m
+Author: Fernando Fogaca <“fernandopfogaca@gmail.com”>
+Date:   Wed Mar 20 23:36:29 2024 +0100
+
+    CSS UPDATED
+
+[33mcommit 9f81eebcb984aca5a62dedab9dd536c6da5a825d[m[33m ([m[1;31morigin/outra_ramificacao[m[33m)[m
+Author: Fernando Fogaca <“fernandopfogaca@gmail.com”>
+Date:   Wed Mar 20 22:15:33 2024 +0100
+
+    Initial structure html
+
+[33mcommit 069bcbccae61265afc8f9747466a75c10681bc30[m
+Author: Fernando Fogaca <“fernandopfogaca@gmail.com”>
+Date:   Wed Mar 20 21:04:46 2024 +0100
+
+    First commit
+    
+    Add README and gitignore

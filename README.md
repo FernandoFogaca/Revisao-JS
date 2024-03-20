@@ -11,5 +11,6 @@
 
 - Download Live server plugin
 - Right click on the index.html file and click on "Open with Live Server."
+- Link https://20-03-21.netlify.app
 
 

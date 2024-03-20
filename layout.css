@@ -1,0 +1,70 @@
+/*
+
+    R E S E T S
+
+*/
+body{
+   /* border: solid black 10px;*/
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+
+/* Cor header:#DFE6ED
+   Cor Body:#C3CFD9
+   Cor Button:#4B5C6B
+   Cor Success:#207868  
+   Cor Error:#AC6363    
+
+/*
+    L A Y O U T
+
+*/
+
+h1{
+    margin: 0;
+}
+
+.cabecalho{
+    background-color:#DFE6ED;
+    padding: 5px 10px 10px 10px;
+   
+}
+
+.principal{
+    background-color:#C3CFD9;
+    border: red solid 2px;
+    height: 100%;
+    
+}
+
+.menu{ 
+   
+    display: inline-block;
+
+}
+
+.menu a{ 
+    border-radius: 5px;
+    display: inline-block;
+    background-color: #4B5C6B;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;         
+    margin-right: 5px;
+
+}
+
+.titulo{
+   
+    display: inline-block;
+    margin-left: 10%;
+   
+
+}

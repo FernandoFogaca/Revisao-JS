@@ -6,7 +6,7 @@
 - CSS
 - JS
 
-## How to run the project
+## How to Run the Project
 
 
 - Download Live server plugin

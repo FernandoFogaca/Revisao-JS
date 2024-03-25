@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Review</title>
     <link rel="stylesheet" href="./layout.css">
-    <script src="./script.js"></script>
+    <link rel="stylesheet" href="./forma.css">
+    <script src="script.js"></script>
 </head>
 
 <body>
@@ -17,17 +18,15 @@
         </nav>
         <h1 class="titulo">CSS & JS </h1>
     </header>
-    <main class="principal">
-        <form>
-            <input type="text">
-            <input type="text">
-            <button type="button">Register</button>
+    <main  class="principal">
+        <form class="formulario">
+            <input  placeholder="Book" id="inputTitulo"    class="formulario_input">
+            <input placeholder="Description"  id="inputDescricao"   class="formulario_input">
+            <button onclick="executar()" class="formulario_botao">Register</button>
 
-            <div>
-                <p>Sent!</p>
-                <p>Failed</p>
+                <div  id="sucesso" class="sucesso">Sent!</div>
 
-            </div>
+                <div id="erro"  class="erro">Failed!</div>
         </form>
 
     </main>

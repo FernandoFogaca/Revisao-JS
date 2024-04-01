@@ -1,0 +1,48 @@
+
+
+
+.resultado{
+
+background-color: white;
+width: 30%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+height: 150px;
+padding: 10px;
+box-sizing: border-box;
+overflow: auto;
+border-radius: 10px;
+border: solid 2px black;
+cursor: pointer;
+
+}
+
+.resultado p {
+
+
+margin: 0px;
+}
+
+.livro {
+
+background-color: rgb(61, 59, 59);
+border-radius: 35px;
+padding: 10px;
+margin: 10px 0px;
+color: white;
+border: solid 2px black;
+font-weight: bold;
+;
+
+
+
+
+
+
+
+
+
+
+
+}

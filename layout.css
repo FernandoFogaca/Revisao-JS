@@ -67,3 +67,30 @@ h1{
    
 
 }
+ .botao{
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box; 
+    cursor: pointer;
+    border-radius: 
+    5px;
+    padding: 5px;
+    background-color: #4B5C6B;
+    color: white;
+    text-align: center;
+    
+ }
+ .botao2{
+    width: 40%;
+    max-width: 100%;
+    box-sizing: border-box; 
+    cursor: pointer;
+    border-radius: 
+    5px;
+    padding: 5px;
+    background-color: #4B5C6B;
+    color: white;
+    margin-left: 30%;
+    margin-top: 20px;
+    font-weight: bold;
+ }
